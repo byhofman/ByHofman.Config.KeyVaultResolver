@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/ByHofman.Config.KeyVaultResolver/ByHofman.Config.KeyVaultResolver.csproj" />
+  <Project Path="tests/ByHofman.Config.KeyVaultResolver.Tests/ByHofman.Config.KeyVaultResolver.Tests.csproj" />
+</Solution>
